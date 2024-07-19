@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(51, 51, 51);
+    display: inline;
+    align-content: center;
+}
+
+main{
+    margin: auto;
+}
+
+div{
+    margin: auto;
+    display: inline-block;
+    align-items: center;
+}
+
+h1{
+    color: white;
+}

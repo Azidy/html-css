@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: darkslategrey;
+}
+
+h2{
+    color: rgb(73, 121, 121);
+}
+
+p{
+    text-align: justify;
+}
+
